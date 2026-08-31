@@ -6,21 +6,30 @@ I build practical software applications, tools and experiments, with a focus on 
 
 I'm particularly interested in applying software engineering to **energy, mobility and the environment**.
 
-### What I work with
+## What I work with
 
-**Languages & Backend**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#) · ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) · ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) · ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) · PHP/Symfony
+### Languages & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
 
-**Web**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) · ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) · ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white) · ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+### Web
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**Cloud & DevOps**
+### Cloud & DevOps
 AWS · Docker · Terraform · CI/CD
 
-**AI**
+### AI
 LLMs · AI coding assistants · MCP
 
-### Selected projects
+## Selected projects
 
 **[Morpho](https://morpholang.vercel.app/)** — Interactive language-learning application for practicing declensions and conjugations across multiple languages.
 *Svelte · TypeScript · Vite · Vercel*
@@ -28,7 +37,7 @@ LLMs · AI coding assistants · MCP
 **[Alpinity](https://alpinity.vercel.app/)** — Full-stack web application built around interactive maps.
 *Next.js · TypeScript · REST APIs · Vercel*
 
-### About me
+## About me
 
 * 🎓 Engineering degree in Computer Science & Applied Mathematics
 * 🇫🇷 Based in France
@@ -37,6 +46,6 @@ LLMs · AI coding assistants · MCP
 * 🏔️ Hiking & climbing
 * 📷 Photography
 
-### Links
+## Links
 
 [LinkedIn](https://www.linkedin.com/in/nicolas-vrignaud-26ab45218/) · [Portfolio](https://portfolio-nvrd.vercel.app/)
